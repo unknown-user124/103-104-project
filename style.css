@@ -1,0 +1,15 @@
+#btntime {
+    width: 504px;
+    height:60px ;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: crimson;
+    
+}
+body {
+background-color:salmon;
+}
+
+.classylabel {
+    color:yellow;
+}
